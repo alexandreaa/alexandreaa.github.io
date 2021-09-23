@@ -56,8 +56,6 @@ body {
 a {
 	-webkit-flex-grow: 3; 
     flex-grow: 3;
-	width: 2;
-	height: 2;
 }
 
 *{
