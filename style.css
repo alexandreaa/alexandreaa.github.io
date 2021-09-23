@@ -47,7 +47,12 @@ body {
 #clear {
      clear: both;
 }
- 
+ #foot
+ {
+width:200px;
+height:100%;
+ }
+
 #footer {
     background: #2b2e73;
 	width: 100%;
